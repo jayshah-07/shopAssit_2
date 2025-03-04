@@ -35,17 +35,17 @@ OpenAI API and “gpt-4o-mini” model
 Pandas
 
 ### Improvements done:
-Improved shop assist UI to indicate processing.
-Disabled the submit button when the input is empty.
-Removed submit button with loader icon while prompts are under processing.
-Beautified submit and add button
-Handled cases of empty value of GPU, processing, budget, etc
-Implemented function calling.
+- Improved shop assist UI to indicate processing.
+- Disabled the submit button when the input is empty.
+- Removed submit button with loader icon while prompts are under processing.
+- Beautified submit and add button
+- Handled cases of empty value of GPU, processing, budget, etc
+- Implemented function calling.
 
 ### Conclusion:
 Shop Assistant Chatbot effectively utilizes OpenAI’s Function Calling API, transforming the way users interact with AI-powered shopping assistants.
-Improved interaction consistency over traditional bots
-Better user experience
-Reliable and accurate recommendations 
+- Improved interaction consistency over traditional bots
+- Better user experience
+- Reliable and accurate recommendations 
 
 
