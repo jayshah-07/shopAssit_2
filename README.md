@@ -19,6 +19,7 @@ Create a chatbot that can analyze a dataset containing information about laptops
 ### Installation & Setup
 - Clone the Repository
 > git clone https://github.com/jayshah-07/shopAssit_2.git
+>
 > cd shopAssit_2
 - Install Dependencies
 > pip install -r requirements.txt
