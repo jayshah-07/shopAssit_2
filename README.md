@@ -31,7 +31,9 @@ Create a chatbot that can analyze a dataset containing information about laptops
 ### Technology: 
 The chatbot is built using the following technologies.
 > Python 3.11
+>
 > Flask
+>
 > openai 
 
 ### Improvements done:
