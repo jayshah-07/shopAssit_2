@@ -17,22 +17,21 @@ Create a chatbot that can analyze a dataset containing information about laptops
 - csv data file (laptop_data.csv)
 
 ### Installation & Setup
-🔹 Clone the Repository
-git clone https://github.com/jayshah-07/shopAssit_2.git
-cd shopAssit_2
-🔹 Install Dependencies
-pip install -r requirements.txt
-🔹 Run the Flask Application
-python app.py
-🔹 Access the Web Interface
-Open a browser and go to http://127.0.0.1:5001/
+- Clone the Repository
+> git clone https://github.com/jayshah-07/shopAssit_2.git
+> cd shopAssit_2
+- Install Dependencies
+> pip install -r requirements.txt
+- Run the Flask Application
+> python app.py
+- Access the Web Interface
+> Open a browser and go to http://127.0.0.1:5001/
 
 ### Technology: 
 The chatbot is built using the following technologies.
-Python 3.11
-Flask
-OpenAI API and “gpt-4o-mini” model
-Pandas
+> Python 3.11
+> Flask
+> openai 
 
 ### Improvements done:
 - Improved shop assist UI to indicate processing.
